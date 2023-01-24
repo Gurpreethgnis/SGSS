@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#dataset
+data/
+code/Complete_Punjabi_SGGS.txt
+code/Complete_Translation_SGGS.txt
+code/Complete_Transliteration_SGGS.txt
+
 # Distribution / packaging
 .Python
 build/
