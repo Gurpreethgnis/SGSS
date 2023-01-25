@@ -11,6 +11,7 @@ data/
 code/Complete_Punjabi_SGGS.txt
 code/Complete_Translation_SGGS.txt
 code/Complete_Transliteration_SGGS.txt
+*.DS_Store
 
 # Distribution / packaging
 .Python
